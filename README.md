@@ -8,11 +8,6 @@ A minimal theme toggle built with React and SCSS. Switches between day and night
 - Pure React + SCSS, no external dependencies  
 - Easily customizable color layers and transitions
 
-## Project Structure
-Theme.jsx # Main component
-ThemeUtils.js # Theme logic and color management
-Theme.scss # Styling and layout
-
 ## Custom colors 
 ```
 export const backgroundColors = [
