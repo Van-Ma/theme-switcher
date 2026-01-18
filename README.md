@@ -1,6 +1,8 @@
 ## Theme Switching Button
 A minimal theme toggle built with React and SCSS. Switches between day and night color palettes using dynamic CSS variables and a reusable ThemeUtils system.
 
+![Theme Switcher Preview](https://github.com/Van-Ma/theme-switcher/raw/main/Group%2014%20(2).png)
+
 ## Features
 - Smooth toggle between **light** and **dark** themes  
 - Dynamically updates CSS variables for color schemes  
